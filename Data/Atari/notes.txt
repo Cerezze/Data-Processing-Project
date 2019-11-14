@@ -1,0 +1,2 @@
+1. Get all data into node array.
+2. observe how the data is put inside array
